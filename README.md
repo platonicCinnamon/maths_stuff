@@ -6,5 +6,5 @@ monsky_suqare.m is a Mathematica program that outputs an approximation of the sq
 * [Wikipedia article about the theorem](https://en.wikipedia.org/wiki/Monsky's_theorem)
 
 ## Substring Primes
-substring_primes.m is a program **(CONTAINING SPOILERS)** related to the problem: are there infinitely many numbers in which every substring is prime? substring_primes_proof.txt is the solution of said proof
+substring_primes.m is a program **(CONTAINING SPOILERS)** related to the problem: are there infinitely many numbers in which every substring is prime? substring_primes_proof.md is the solution of said proof
 * [OEIS sequence](https://oeis.org/A085823)
